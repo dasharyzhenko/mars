@@ -12,7 +12,8 @@ h4{
 	font-family: century gothic;
 }
 body{
-	background-color:;
+	background-color:  14031c;
+	color: white;
 }
 .font1{
 	font-size: 20px;
@@ -20,13 +21,70 @@ body{
 }
 
 .font2{
-	font-size: 16px;
+	font-size: 17px;
 	text-align: justify;
 }
 .im{
-margin: 0 auto 0 auto;
+border-radius: 50%;
+}
+.headline{
+	color: ea1646;
+	font-size: 30px;
+	font-family: century gothic ;
+	font-weight: bold;
 }
 
-.card-panel{
-	background-color:;
+
+.name{
+	margin-top
+}
+.quote{
+	font-size: 20px;
+	font-family: century gothic ;
+	margin-top: 2% ;
+	text-align: justify;
+	font-style: italic;
+	color: #eceff1;
+	font-weight: bold;
+}
+
+.aud{
+	text-align: center;
+}
+
+
+.inf{
+	font-size: 20px;
+	color: pink lighten-5;
+	font-style: italic;
+	font-family: century gothic ;
+	
+}
+
+
+
+#prlx_lyr_1{
+	position:fixed;
+	
+	margin-top: 325%;
+	margin-left: 8%;
+}
+
+
+
+
+@media screen and (max-width:1210px) {
+    .dis {
+        display: none;
+    }
+}
+
+
+.bottom{
+	height: 30px;
+	background-color: ea1646;
+}
+
+.im2{
+	border-radius: 50%;
 }
